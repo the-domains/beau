@@ -1,0 +1,14 @@
+layout_spectrum: 0.9418076109141111
+typography_spectrum: 0.9005036184098572
+color:
+  brandStrength: 0.22788464417681098
+  lightness: 0.8295997285749763
+  saturation: 0.5675708511844277
+  rhythmicContrast: 0.4417352641467005
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: beau
